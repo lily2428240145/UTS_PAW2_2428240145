@@ -1,7 +1,7 @@
 {
-  "name": "tugas1-restful-2428240145",
+  "name": "UTS-PAW2-2428240145",
   "version": "1.0.0",
-  "description": "Tugas 1 - RESTful API murni dengan Express.js (Topik 27: Penggalangan Dana - Donasi)",
+  "description": "UTS",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
