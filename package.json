@@ -1,16 +1,22 @@
 {
+  "name": "tugas1-restful-2428240145",
+  "version": "1.0.0",
+  "description": "Tugas 1 - RESTful API murni dengan Express.js (Topik 27: Penggalangan Dana - Donasi)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "license": "ISC",
+  "type": "commonjs",
   "dependencies": {
-    "express": "^5.3.0"
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.9",
+    "express": "^5.2.1",
+    "mongoose": "^9.11.4"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
-  },
-  "name": "uts_paw2_2428240145",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -18,8 +24,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/lily2428240145/UTS_PAW2_2428240145/issues"
   },
